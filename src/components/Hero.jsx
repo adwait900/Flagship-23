@@ -29,7 +29,7 @@ const Hero = () => {
           </div>
           <div className="flexColStart secondaryText flexhero-des">
             <span>
-              This year Flagship'23 is happening on the 17th of September
+              This year Flagship'24 is happening on the 21th of September
             </span>
             <span>Venue: VNIT Auditorium from 5 pm</span>
           </div>
